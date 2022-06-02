@@ -1,0 +1,12 @@
+.rank-block {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+
+#rank-number {
+  font-size: 2em;
+  font-weight: bold;
+}

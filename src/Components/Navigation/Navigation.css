@@ -1,0 +1,7 @@
+#Nav-sign-out {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 10px;
+  flex-shrink: 1;
+  flex-grow: 1;
+}
